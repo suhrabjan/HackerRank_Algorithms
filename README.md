@@ -1,4 +1,4 @@
-# Hackerrank Algorithm Solutions with Python 3
+# Hackerrank Algorithm Solutions with Python 3.6
 
 
 ###### Here I am providing my solutions to the Algorithm questions on [hackerrank.com](https://hackerrank.com). 
