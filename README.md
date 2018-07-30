@@ -1,8 +1,12 @@
 # Python3 Solutions to Algorithm Questions on HackerRank
 
-###### Here I am providing my solutions to the Algorithm questions on [hackerrank.com](https://hackerrank.com). 
+###### My Python3 solutions to Algorithm challenges on [hackerrank.com](https://hackerrank.com). 
 
+##ALGORITHMS
 
+Subdomain | Challenge | Solution
+--- | --- | ---
+Implementation | ABC | BCD
 
 ## Difficulty Levels
 
