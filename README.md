@@ -4,9 +4,9 @@
 
 ##ALGORITHMS
 
-Subdomain | Challenge | Solution
---- | --- | ---
-Implementation | ABC | BCD
+Subdomain | Difficulty | Challenge | Solution
+:-------------------------: | :----------: | :------------------------------------------: | :------------------------------------------:
+Implementation | Easy | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | countApplesAndOranges.py
 
 ## Difficulty Levels
 
