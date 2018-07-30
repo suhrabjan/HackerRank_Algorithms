@@ -1,4 +1,4 @@
-# Python3 Solutions to Algorithm Questions on Hackerrank
+# Python3 Solutions to Algorithm Questions on HackerRank
 
 ###### Here I am providing my solutions to the Algorithm questions on [hackerrank.com](https://hackerrank.com). 
 
