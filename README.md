@@ -6,7 +6,7 @@
 
 Subdomain | Difficulty | Challenge | Solution
 :-------------------------: | :----------: | :------------------------------------------: | :------------------------------------------:
-Implementation | Easy | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | countApplesAndOranges.py
+Implementation | Easy | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [countApplesAndOranges.py](Implementation/Apple and Orange/countApplesAndOranges.py)
 
 ## Difficulty Levels
 
