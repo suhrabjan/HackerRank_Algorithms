@@ -13,6 +13,11 @@ Implementation | Easy | [Apple and Orange](https://www.hackerrank.com/challenges
 Implementation | Easy | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [kangaroo.py](Implementation/Kangaroo/kangaroo.py)
 Implementation | Easy | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [getTotalX.py](Implementation/Between%20Two%20Sets/getTotalX.py)
 Implementation | Easy | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [breakingRecords.py](Implementation/Breaking%20the%20Records/breakingRecords.py)
+Implementation | Easy | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [birthdayChocolate.py](Implementation/Birthday%20Chocolate/birthdayChocolate.py)
+Implementation | Easy | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [divisibleSumPairs.py](Implementation/Divisible%20Sum%20Pairs/divisibleSumPairs.py)
+Implementation | Easy | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratoryBirds.py](Implementation/Migratory%20Birds/migratoryBirds.py)
+Implementation | Easy | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [programmersDay.py](Implementation/Day%20of%20the%20Programmer/programmersDay.py)
+Implementation | Easy | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [bonAppetit.py](Implementation/Bon%20Appetit/bonAppetit.py)
 
 
 
