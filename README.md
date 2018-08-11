@@ -18,6 +18,10 @@ Implementation | Easy | [Divisible Sum Pairs](https://www.hackerrank.com/challen
 Implementation | Easy | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratoryBirds.py](Implementation/Migratory%20Birds/migratoryBirds.py)
 Implementation | Easy | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [programmersDay.py](Implementation/Day%20of%20the%20Programmer/programmersDay.py)
 Implementation | Easy | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [bonAppetit.py](Implementation/Bon%20Appetit/bonAppetit.py)
+Implementation | Medium | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | [formingMagicSquare.py](Implementation/Forming%20a%20Magic%20Square/formingMagicSquare.py)
+Implementation | Easy | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [howManyGames.py](Implementation/Halloween%20Sale/howManyGames.py)
+Implementation | Easy | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [happyLadybugs.py](Implementation/Happy%20Ladybugs/happyLadybugs.py)
+Implementation | Medium | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | [surfaceArea.py](Implementation/3D%20Surface%20Area/surfaceArea.py)
 
 
 
