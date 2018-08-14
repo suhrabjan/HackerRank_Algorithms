@@ -22,6 +22,7 @@ Implementation | Medium | [Forming a Magic Square](https://www.hackerrank.com/ch
 Implementation | Easy | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [howManyGames.py](Implementation/Halloween%20Sale/howManyGames.py)
 Implementation | Easy | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [happyLadybugs.py](Implementation/Happy%20Ladybugs/happyLadybugs.py)
 Implementation | Medium | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | [surfaceArea.py](Implementation/3D%20Surface%20Area/surfaceArea.py)
+Implementation | Hard | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [matrixRotation.py](Implementation/Matrix%20Layer%20Rotation/matrixRotation.py)
 
 
 
