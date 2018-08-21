@@ -23,7 +23,10 @@ Implementation | Easy | [Halloween Sale](https://www.hackerrank.com/challenges/h
 Implementation | Easy | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [happyLadybugs.py](Implementation/Happy%20Ladybugs/happyLadybugs.py)
 Implementation | Medium | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | [surfaceArea.py](Implementation/3D%20Surface%20Area/surfaceArea.py)
 Implementation | Hard | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [matrixRotation.py](Implementation/Matrix%20Layer%20Rotation/matrixRotation.py)
-
+Strings | Medium | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [isValid.py](Strings/Sherlock%20and%20the%20Valid%20String/isValid.py)
+Strings | Medium | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem) | [highestValuePalindrome.py](Strings/Highest%20Value%20Palindrome/highestValuePalindrome.py)
+Strings | Medium | [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [maximumPalindromes.py](Strings/Maximum%20Palindromes/maximumPalindromes.py)
+Strings | Medium | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [sherlockAndAnagrams.py](Strings/Sherlock%20and%20Anagrams/sherlockAndAnagrams.py)
 
 
 ## Author
