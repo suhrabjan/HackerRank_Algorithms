@@ -27,7 +27,7 @@ Strings | Medium | [Sherlock and the Valid String](https://www.hackerrank.com/ch
 Strings | Medium | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem) | [highestValuePalindrome.py](Strings/Highest%20Value%20Palindrome/highestValuePalindrome.py)
 Strings | Medium | [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [maximumPalindromes.py](Strings/Maximum%20Palindromes/maximumPalindromes.py)
 Strings | Medium | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [sherlockAndAnagrams.py](Strings/Sherlock%20and%20Anagrams/sherlockAndAnagrams.py)
-
+Strings | Medium | [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | [commonChild.py](Strings/Common%20Child/commonChild.py)
 
 ## Author
 
