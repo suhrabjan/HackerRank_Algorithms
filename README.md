@@ -28,6 +28,7 @@ Strings | Medium | [Highest Value Palindrome](https://www.hackerrank.com/challen
 Strings | Medium | [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [maximumPalindromes.py](Strings/Maximum%20Palindromes/maximumPalindromes.py)
 Strings | Medium | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [sherlockAndAnagrams.py](Strings/Sherlock%20and%20Anagrams/sherlockAndAnagrams.py)
 Strings | Medium | [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | [commonChild.py](Strings/Common%20Child/commonChild.py)
+Strings | Medium | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) | [steadyGene.py](Strings/Bear%20and%20Steady%20Gene/steadyGene.py)
 
 ## Author
 
